@@ -1,0 +1,2 @@
+# newJourney
+all about javaScript
